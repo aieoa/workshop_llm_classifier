@@ -1,0 +1,11 @@
+numpy
+openai
+faiss-cpu
+pandas
+scikit-learn
+pyyaml
+huggingface_hub
+sentence_transformers
+jupyter
+ipykernel
+
